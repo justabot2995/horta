@@ -1,5 +1,6 @@
 # Horta.py
 
+https://github.com/justabot2995/horta
 
 Horta is a python program designed to generate pseudo random growing flower patterns in a terminal window. It was made in 2020 by Lucas Bet as part of the CS50x Harvard Program.
 
