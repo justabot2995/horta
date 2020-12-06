@@ -40,4 +40,4 @@ The project is not taking contributions by now, sorry.
 As more features are added in, this will be updated. Thank you.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)
